@@ -29,7 +29,7 @@ header {
 }
 
 header h1 {
-    font-size: 5em;
+    font-size: 20em;
 }
 
 main {
@@ -633,8 +633,8 @@ nav {
     background-color: #00000086;
     border: 2px solid #000000;
     border-radius: 10px;
-    width: 1000px;
-    height: 100px;
+    width: 3000px;
+    height: 300px;
 }
 
 .reduced price{
